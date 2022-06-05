@@ -1,4 +1,4 @@
-![This is an image](https://sun9-87.userapi.com/s/v1/if2/Dthg083MNx9RJWJCbQtvhKnyVUpL2x24xokkrKVUi3bVhHXmtmfCk-StqxBTqHupr9xzHssuJqvaBM0sotWi3stO.jpg?size=2120x393&quality=96&type=album)
+![This is an image](https://sun9-79.userapi.com/s/v1/if2/_Gm-BTrZUKEjb2jz7eWTSpS0QrESACEkkLs7j1V92b5EwvNS-D-R2oFsLQCE7_uPBC1vi9k1Es0AdagJClqInYFc.jpg?size=2120x352&quality=96&type=album)
 
 
 # Кто я?
