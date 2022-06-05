@@ -5,9 +5,7 @@
 - ![Vue](https://img.shields.io/badge/-Vue.Js-000000?style=for-the-badge&logo=Vue.js)
 - ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 vova641/vova641 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
