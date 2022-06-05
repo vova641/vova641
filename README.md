@@ -5,6 +5,7 @@
 - ![Vue](https://img.shields.io/badge/-Vue.Js-000000?style=for-the-badge&logo=Vue.js)
 - ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vova641&show_icons=true&theme=radical)
+- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vova641)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
