@@ -2,7 +2,7 @@
 - 👋 Привет, Меня зовут Владимир ```Kosa```
 - 👀 Я заинтересован в разрабоке на
 - ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
-- ![Vue](https://img.shields.io/badge/-Vue-000000?style=for-the-badge&logo=Vue)
+- ![Vue](https://img.shields.io/badge/-VueJs-000000?style=for-the-badge&logo=Vue.js)
 - ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
