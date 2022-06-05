@@ -4,7 +4,7 @@
 - ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=for-the-badge&logo=Laravel)
 - ![Vue](https://img.shields.io/badge/-Vue.Js-000000?style=for-the-badge&logo=Vue.js)
 - ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=Flutter)
--![Статистика на GitHub](https://github-readme-stats.vercel.app/api?username=vova641&show_icons=true&theme=radical)
+- ![Статистика на GitHub](https://github-readme-stats.vercel.app/api?username=vova641&show_icons=true&theme=radical)
 
 
 <!---
